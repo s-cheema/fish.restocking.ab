@@ -93,7 +93,7 @@ To modify the Fish Stocking model your local machine must have Microsoft Power B
 
 Website - [@Personal Website](https://cheema.dev/contact.html) - mail@cheema.dev
 
-Model Link: [@fishrestockingModel](https://app.powerbi.com/view?r=eyJrIjoiN2Y2N2VmZjEtODE0YS00MTA2LWFmYTktMWYxMzlmMzQ4NmNiIiwidCI6IjVlMmZjYTQ0LWY5MmMtNGVkMC04NmI1LTY3MDgwMTkxNjZlMCJ9&pageName=ReportSection8106118b4d711c53265b)
+Model Link: [@fishrestockingModel](https://app.powerbi.com/view?r=eyJrIjoiN2Y2N2VmZjEtODE0YS00MTA2LWFmYTktMWYxMzlmMzQ4NmNiIiwidCI6IjVlMmZjYTQ0LWY5MmMtNGVkMC04NmI1LTY3MDgwMTkxNjZlMCJ9&embedImagePlaceholder=true&pageName=ReportSection8106118b4d711c53265b)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
